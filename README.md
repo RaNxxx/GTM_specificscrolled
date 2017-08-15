@@ -13,8 +13,8 @@ I've write the whole steps of scroll tracking here : http://7gorange.com/2017/08
 
 *I wrote it in Japanese, not sure if I have time to rewrite it in English.
 
-To finish the tracking, you need to create a customer HTML Tag on Google Tag Manager.
-Here is the Javascript code that you can copy and put it into your customer HTML Tag.
+To finish the tracking, you need to create a custom HTML Tag on Google Tag Manager.
+Here is the Javascript code that you can copy and put it into your custom HTML Tag.
 
 This code is been revised from Mr.Zuk whose orginal code is here : https://github.com/zuk/jquery.inview
 Mr.Shimizu Makoto helps me to revise the code from Mr.Zuk.
